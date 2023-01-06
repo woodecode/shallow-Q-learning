@@ -12,7 +12,7 @@ nothing...
 <br><br>
 </p>
 
-`dqn.py`,`ddqn.py`,`dqn_batch.py`是原作者的文件,我将在`ipynb`重新完成它。
+`dqn.py`,`ddqn.py`,`dqn_batch.py`是原作者的文件,我将使用Jupyter Notebook在`shallow-q-learning.ipynb`重新完成它。
 
 以下是该项目的原文档
 ---
